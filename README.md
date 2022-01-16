@@ -6,8 +6,8 @@ The data used can be found in the 'data' folder and was extracted from [FRED](ht
 
 # Specifications on Files
 
-## [assignment1_inflation.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment1_inflation.R)
+## [A1_modelling_inflation_bj.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/A1_modelling_inflation_bj.R)
 
-## [assignment1_ur.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment1_ur.R)
+## [A1_modelling_ur_bj.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/A1_modelling_ur_bj.R)
 
-## [assignment2.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment2.R)
+## [A2_svar_modelling_gdp_ir.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/A2_svar_modelling_gdp_ir.R)
