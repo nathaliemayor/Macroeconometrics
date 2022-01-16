@@ -4,4 +4,10 @@ This repository contains R code for a Macroeconometrics (Bsc, Msc) course at the
 
 The data used can be found in the 'data' folder and was extracted from [FRED](https://fred.stlouisfed.org/).
 
-# Files Specifications
+# Specifications on Files
+
+## [assignment1_inflation.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment1_inflation.R)
+
+## [assignment1_ue.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment1_ue.R)
+
+## [assignment2.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/assignment2.R)
