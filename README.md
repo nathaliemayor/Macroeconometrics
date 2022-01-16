@@ -10,7 +10,7 @@ The data used can be found in the 'data' folder and was extracted from [FRED](ht
 
 
 
-## [A2_svar_modelling_gdp_ir.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/A2_svar_modelling_gdp_ir.R) : Assessing the effectivity of the Monetary Policy in the UK
+## [A2_svar_modelling_gdp_ir.R](https://github.com/nathaliemayor/Macroeconometrics/blob/main/A2_svar_modelling_gdp_ir.R) : Assessing the Effectiveness of the Monetary Policy in the UK
 
 (As of 13-Dec-2019) Central banks around the world have been loosening monetary policy these last months, amid intensifying worries about low inflation, slowing global growth and a possible recession. As Brexit uncertainty continues to hang over England, its central bank is holding the monetary policy unchanged and the interest rates stable. However, the Brexit date is currently set for January 31, 2020, and the general concern is the existence or the absence of an agreed trade deal in order to start a new relationship with the European Union. Without this agreement, the country would have to face another extend transition period or to leave the European Union with a "no-deal". In such a hazardous environment, the objectives of the United Kingdom’s monetary policy is to use its tools in the most efficient way to face a declining growth and an increase in prices that leaving the EU without a deal would provoke. Indeed, an abrupt departure from the European Union would not allow business to have a transition period to adjust. Another concern concerning another delay is that it could lead to economic weakness. In this uncertain setting, the impact of the monetary policy on the economic activity represents an especially important concern. 
 
