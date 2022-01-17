@@ -10,13 +10,9 @@ The data used can be found in the 'data' folder and was extracted from [FRED](ht
 
 The code aims to find a time-series model that would best-fit the past values of the unemployment rate and inflation rate for the United-Kingdom. We follow the Box-Jenkins method in order to obtain the best fitting model for the two data sets. We first analyze both data sets and identify for each one a class of simple autoregressive moving average process and select the model that describes best the data based on different criteria. In a second time, we  check the chosen model in order to verify our selection. 
 
-Following the Box-Jenkins methodology, two models were selected to describe the unemployment and inflation rate in the United Kingdom. Concerning the unemployment rate, the chosen model was the second order autoregressive process (AR(2)) with the following parameters’ estimation : 
-
-y<sub>t</sub> = φ<sub>1</sub>y<sub>t−1</sub> +φ<sub>2</sub>y<sub>t−2</sub>+ε<sub>t</sub> = 1.842y<sub>t−1</sub> −0.850y<sub>t−1</sub> +ε<sub>t</sub>. 
-
-Regarding the inflation rate, the selected model was the first order autoregressive moving average process ARMA(1,1) : 
-
-y<sub>t</sub> = μ + φ<sub>1</sub>y<sub>t−1</sub> + ε<sub>t</sub> + θ<sub>1</sub>ε<sub>t−1</sub> = 4.746 + 0.807y<sub>t−1</sub> + ε<sub>t</sub> + 10.114ε<sub>t−1</sub>.
+Following the Box-Jenkins methodology, two models were selected to describe the unemployment and inflation rate in the United Kingdom. 
+Concerning the unemployment rate, the chosen model was the second order autoregressive process (AR(2)) with the following parameters’ estimation : y<sub>t</sub> = φ<sub>1</sub>y<sub>t−1</sub> +φ<sub>2</sub>y<sub>t−2</sub>+ε<sub>t</sub> = 1.842y<sub>t−1</sub> −0.850y<sub>t−1</sub> +ε<sub>t</sub>. 
+Regarding the inflation rate, the selected model was the first order autoregressive moving average process ARMA(1,1) : y<sub>t</sub> = μ + φ<sub>1</sub>y<sub>t−1</sub> + ε<sub>t</sub> + θ<sub>1</sub>ε<sub>t−1</sub> = 4.746 + 0.807y<sub>t−1</sub> + ε<sub>t</sub> + 10.114ε<sub>t−1</sub>.
 
 
 
