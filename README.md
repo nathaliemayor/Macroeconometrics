@@ -23,7 +23,7 @@ Concerning the results : following the vector autoregression methodology, the se
 **Nominal Short-Term Interest Rate**: i<sub>t</sub> = - 0.137 + 1.253 i<sub>t-1</sub> - 0.271 i<sub>t-2</sub> + 0.009 g<sub>t-1</sub> + 0.071 g<sub>t-2</sub> + &epsilon;<sub>it</sub>
 
 
-| <div style="width:50%">![irf.png](irf.png) | 
+| <div style="width:50%">![irf1.png](irf1.png) | 
 |:--:| 
 | *Impulse response of GDP growth from a positive shock in the nominal short-term interest rate* |
 
