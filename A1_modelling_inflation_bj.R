@@ -2,6 +2,13 @@
 # this code applies the Box-Jenkins procedure to select 
 # the best fitting time series model of UK Inflation
 
+
+# load all the libraries needed
+library(dyn)
+library(forecast)
+library(sandwich)
+library(lmtest)
+
 current_path <- rstudioapi::getActiveDocumentContext()$path
 setwd(dirname(current_path))
 
@@ -31,12 +38,6 @@ pacf(y,main="Figure 6: Partial Autocorrelation inflation, UK")
 # ESTIMATION STAGE
 
 # estimate plausible models
-
-# load all the libraries needed
-library(dyn)
-library(forecast)
-library(sandwich)
-library(lmtest)
 
 # estimate ARMA models, compare fit using AIC and BIC
 
